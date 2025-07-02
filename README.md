@@ -57,3 +57,4 @@ Resolution: The button was moved higher and made more prominent. As a result, th
             a 20% increase in completed purchases.
 Conclusion: Wireframing helped uncover this issue before development, proving its value in creating a
             user-friendly interface.
+            
